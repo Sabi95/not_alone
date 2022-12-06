@@ -1,19 +1,13 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
-
-# 📚 Not Alone
+# 👩‍👧‍👦 Not Alone
 
 A volunteer recruitment site/database developed in partnership with OpSAFE, an NPO that hosts camps for kids that have suffered from traumatic experiences. Not Alone allows camp organizers setting up a new camp page to immediately contact existing volunteers in the location of the new camp for recruitment.
 
 
 
 <img width="1248" alt="2022-12-05" src="https://user-images.githubusercontent.com/114859704/205578629-a6f2c743-c3f4-4b87-b652-bf84e83d3e05.png">
-<img width="1248" alt="2022-12-05 (1)" src="https://user-images.githubusercontent.com/114859704/205578745-0bd6f2b5-22a0-4770-b01d-abc8934fa1b1.png">
-<img width="1248" alt="2022-12-05 (12)" src="https://user-images.githubusercontent.com/114859704/205578851-0ba92adb-4beb-4a20-9494-a628cf53603c.png">
-<img width="1248" alt="2022-12-05 (11)" src="https://user-images.githubusercontent.com/114859704/205578867-d4d8cc93-c82c-4d53-8f6c-f72a9dca246d.png">
 <img width="1248" alt="2022-12-05 (3)" src="https://user-images.githubusercontent.com/114859704/205578759-36901c20-b5ce-4a05-a81a-128fa43feddf.png">
 <img width="1248" alt="2022-12-05 (10)" src="https://user-images.githubusercontent.com/114859704/205578790-57c57ea1-ea17-48f9-8d94-4e435159eeb2.png">
 <img width="1248" alt="2022-12-05 (5)" src="https://user-images.githubusercontent.com/114859704/205578968-64c63d66-aff2-4604-b3f0-c0e28cf259d8.png">
-<img width="1248" alt="2022-12-05 (7)" src="https://user-images.githubusercontent.com/114859704/205578978-516ad15b-b7e8-4416-a742-50f82da409ee.png">
 
 <br>
 App home: https://not-alone.online
