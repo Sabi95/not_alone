@@ -1,4 +1,6 @@
 class AssignmentsController < ApplicationController
+  skip_before_action :authenticate_user!
+
   def index
     @assignments = policy_scope(Assignment).joins(:camp)
     @upcoming_assignments = @assignments.where('camps.start_date >= ?', Date.today).order(:start_date)
