@@ -3,11 +3,16 @@
 A volunteer recruitment site/database developed in partnership with OpSAFE, an NPO that hosts camps for kids that have suffered from traumatic experiences. Not Alone allows camp organizers setting up a new camp page to immediately contact existing volunteers in the location of the new camp for recruitment.
 
 
+<div class="d-flex">
+<img width="400" height="220" alt="2022-12-05" src="https://user-images.githubusercontent.com/114859704/205578629-a6f2c743-c3f4-4b87-b652-bf84e83d3e05.png">
+<img width="400" height="220" alt="2022-12-05 (3)" src="https://user-images.githubusercontent.com/114859704/205578759-36901c20-b5ce-4a05-a81a-128fa43feddf.png">
+</div>
 
-<img width="1248" alt="2022-12-05" src="https://user-images.githubusercontent.com/114859704/205578629-a6f2c743-c3f4-4b87-b652-bf84e83d3e05.png">
-<img width="1248" alt="2022-12-05 (3)" src="https://user-images.githubusercontent.com/114859704/205578759-36901c20-b5ce-4a05-a81a-128fa43feddf.png">
-<img width="1248" alt="2022-12-05 (10)" src="https://user-images.githubusercontent.com/114859704/205578790-57c57ea1-ea17-48f9-8d94-4e435159eeb2.png">
-<img width="1248" alt="2022-12-05 (5)" src="https://user-images.githubusercontent.com/114859704/205578968-64c63d66-aff2-4604-b3f0-c0e28cf259d8.png">
+<div class="d-flex">
+<img width="400" height="220" alt="2022-12-05 (10)" src="https://user-images.githubusercontent.com/114859704/205578790-57c57ea1-ea17-48f9-8d94-4e435159eeb2.png">
+<img width="400" height="220" alt="2022-12-05 (5)" src="https://user-images.githubusercontent.com/114859704/205578968-64c63d66-aff2-4604-b3f0-c0e28cf259d8.png">
+</div>
+
 
 <br>
 App home: https://not-alone.online
