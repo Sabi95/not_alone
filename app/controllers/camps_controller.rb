@@ -1,5 +1,5 @@
 class CampsController < ApplicationController
-  skip_before_action :authenticate_user!
+  # skip_before_action :authenticate_user!
 
   def show
     @camp = Camp.find(params[:id])

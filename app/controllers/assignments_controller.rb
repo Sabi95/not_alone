@@ -1,5 +1,5 @@
 class AssignmentsController < ApplicationController
-  skip_before_action :authenticate_user!
+  # skip_before_action :authenticate_user!
 
   def index
     @assignments = policy_scope(Assignment).joins(:camp)
