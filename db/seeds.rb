@@ -434,7 +434,7 @@ user: admin.sample
 )
 file_10 = URI.open("http://childlink.edu.ph/home/wp-content/uploads/2017/08/IMG_0915.jpg")
 camp12.photos.attach(io: file_10, filename: "philippines.png", content_type: "image/png")
-file12 = URI.open("https://www.aldi.pics/img/gallery/DSC_35451.jpg")
+file12 = URI.open("https://www.ikoporan.org/wp-content/uploads/2017/10/lena-roll-usa-childcare.jpg")
 camp12.photos.attach(io: file12, filename: "philippines.png", content_type: "image/png")
 file_8 = URI.open("https://i.ytimg.com/vi/ut8eQO_R3Rg/maxresdefault.jpg")
 camp12.photos.attach(io: file_8, filename: "philippines.png", content_type: "image/png")
